@@ -1,0 +1,4 @@
+    GitHub can provide a ready way to provide code examples to employers. You can structure
+different repositories to represent different types of code samples. It also is a perpetual
+resources so as I go through my career and identify new positive examples of code development
+to share I can apply here as well.
