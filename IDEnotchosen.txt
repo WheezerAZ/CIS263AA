@@ -1,0 +1,5 @@
+    Originally, I was going to use Eclipse because of previous experience. I
+ran into issues with doing commits to Github. I saw the option to utilize 
+Visual Studio Code so I decided to try this. I was able to get my file committed
+with some effort. I may return to Eclipse in the future but for now we'll see how 
+we do with Visual Studio Code.
